@@ -69,6 +69,9 @@ struct InfoScreen: View {
 }
 
 
+#Preview {
+    InfoScreen()
+}
 /*
  Anotações interessantes
  

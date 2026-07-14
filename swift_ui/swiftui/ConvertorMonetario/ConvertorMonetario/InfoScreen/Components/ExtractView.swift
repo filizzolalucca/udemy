@@ -28,3 +28,12 @@ struct ExtractView: View {
         }
     }
 }
+
+#Preview {
+    ExtractView(
+        leftImage: .goldpenny,
+        textExtract:  "Extract",
+        rightImage: .silverpenny
+    )
+}
+
