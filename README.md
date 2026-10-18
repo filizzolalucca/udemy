@@ -14,6 +14,14 @@ Projects I built while taking a SwiftUI course on Udemy. The code comments inclu
 
 A fantasy-themed currency exchange for the *Prancing Pony* inn: convert between copper pennies, silver pennies, silver pieces, gold pennies and gold pieces.
 
+<p align="center">
+  <img src="docs/screenshots/converter-main.jpg" alt="Converter" width="230">
+  &nbsp;
+  <img src="docs/screenshots/converter-picker.jpg" alt="Currency picker" width="230">
+  &nbsp;
+  <img src="docs/screenshots/converter-rates.jpg" alt="Exchange rates" width="230">
+</p>
+
 - Two-way conversion: typing in either field updates the other in real time
 - Currency picker sheet with a grid of coins for the "from" and "to" currencies
 - Exchange rates screen explaining how each coin converts to the next
